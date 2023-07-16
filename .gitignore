@@ -1,7 +1,5 @@
-VirtualEnv/*
-.VirtualEnv/
-VirtualEnv.bak/
 .python-version
-Pipfile
-Pipfile.lock
 configs.env
+*.pyc
+*.pycache
+*.egg-info/
