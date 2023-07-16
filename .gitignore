@@ -1,0 +1,8 @@
+venv/
+env/
+.venv/
+.env/
+env.bak/
+.python-version
+Pipfile
+Pipfile.lock
