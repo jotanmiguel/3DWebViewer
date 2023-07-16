@@ -1,8 +1,7 @@
-venv/
-env/
-.venv/
-.env/
-env.bak/
+VirtualEnv/*
+.VirtualEnv/
+VirtualEnv.bak/
 .python-version
 Pipfile
 Pipfile.lock
+configs.env
